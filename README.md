@@ -1,4 +1,6 @@
- a company that develops smart products for small and big children.
+Name: Nnaka Joyce
+ 
+ A company that develops smart products for small and big children.
  Currently, they are planning on developing a new sound and light toy for babies. The toy
  will be placed in the child's bedroom and can play sounds and light up the room in
  different colors. This can for example be good for helping small children sleep better.
